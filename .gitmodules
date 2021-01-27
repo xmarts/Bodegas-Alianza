@@ -4,3 +4,6 @@
 [submodule "name_costumer"]
 	path = name_costumer
 	url = git@github.com:xmarts/name_costumer.git
+[submodule "products_capacity"]
+	path = products_capacity
+	url = git@github.com:xmarts/products_capacity.git
