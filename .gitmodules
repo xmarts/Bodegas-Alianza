@@ -1,0 +1,3 @@
+[submodule "buy_limit_costumer"]
+	path = buy_limit_costumer
+	url = git@github.com:xmarts/buy_limit_costumer.git
