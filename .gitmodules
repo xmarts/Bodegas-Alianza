@@ -1,3 +1,6 @@
 [submodule "buy_limit_costumer"]
 	path = buy_limit_costumer
 	url = git@github.com:xmarts/buy_limit_costumer.git
+[submodule "name_costumer"]
+	path = name_costumer
+	url = git@github.com:xmarts/name_costumer.git
