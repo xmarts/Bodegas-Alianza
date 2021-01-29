@@ -7,6 +7,3 @@
 [submodule "products_capacity"]
 	path = products_capacity
 	url = git@github.com:xmarts/products_capacity.git
-[submodule "vendors_fields"]
-	path = vendors_fields
-	url = git@github.com:xmarts/vendors_fields.git
